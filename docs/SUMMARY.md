@@ -1,6 +1,6 @@
 - [Home](index.md)
 - [Updates for Modellers](02_Updates_for_Modellers.md)
-- CMIP7:
+- [CMIP7](101_CMIP7/index.md)
   - [branded variables](101_CMIP7/branded_variables.md)
   - [CVs discussion](101_CMIP7/CVs_discussion.md)
   - [domain names](101_CMIP7/domain_names.md)
@@ -12,7 +12,7 @@
   - [guidance for users](101_CMIP7/guidance_for_users.md)
 - How to Guides:
   - [Energy Consumption and Carbon Footprint Spreadsheet](105_How_to_Guides/Energy_Consumption_and_Carbon_Footprint_Spreadsheet.md)
-- CMIP6:
+- [CMIP6](110_CMIP6/index.md)
   - [global attributes](110_CMIP6/global_attributes.md)
   - [guidance for esgf](110_CMIP6/guidance_for_esgf.md)
   - [guidance for modellers](110_CMIP6/guidance_for_modellers.md)

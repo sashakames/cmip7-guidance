@@ -13,6 +13,19 @@ The people who make cmip7-guidance possible — 12 contributors
   <div style="margin-top: 8px; display: flex; justify-content: center; gap: 8px; align-items: center;"><a href="https://orcid.org/0000-0002-3457-4702" title="ORCID: 0000-0002-3457-4702" style="display: inline-flex; align-items: center;"><img src="https://orcid.org/assets/icons/favicon.ico" alt="ORCID" width="16" height="16"></a></div>
 </div>
 <div style="background: #fff; border-radius: 12px; padding: 16px; width: 140px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); display: flex; flex-direction: column; align-items: center;">
+  <a href="https://github.com/wolfiex" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center; width: 100%;">
+    <img src="https://github.com/wolfiex.png?size=100" width="80" height="80" style="border-radius: 50%; border: 3px solid #eee; display: block; margin: 0 auto;" alt="Dan Ellis">
+    <div style="font-weight: 600; font-size: 0.95em; color: #333; margin: 8px 0 4px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 120px; text-align: center;" title="Dan Ellis">Dan Ellis</div>
+    <div style="font-size: 0.8em; color: #666; text-align: center;">@wolfiex</div>
+  </a>
+<<<<<<< HEAD
+  <div style="font-size: 0.75em; color: #999; margin-top: 6px; text-align: center;">134 commits</div>
+=======
+  <div style="font-size: 0.75em; color: #999; margin-top: 6px; text-align: center;">131 commits</div>
+>>>>>>> b59581e (Testing with Mike Version control.)
+  <div style="margin-top: 8px; display: flex; justify-content: center; gap: 8px; align-items: center;"><a href="https://showcase.danielellisresearch.com" title="Website" style="color: #666; text-decoration: none; display: inline-flex; align-items: center;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a><a href="https://orcid.org/0000-0001-6733-7028" title="ORCID: 0000-0001-6733-7028" style="display: inline-flex; align-items: center;"><img src="https://orcid.org/assets/icons/favicon.ico" alt="ORCID" width="16" height="16"></a></div>
+</div>
+<div style="background: #fff; border-radius: 12px; padding: 16px; width: 140px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/juliettelavoie" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center; width: 100%;">
     <img src="https://github.com/juliettelavoie.png?size=100" width="80" height="80" style="border-radius: 50%; border: 3px solid #eee; display: block; margin: 0 auto;" alt="Juliette Lavoie">
     <div style="font-weight: 600; font-size: 0.95em; color: #333; margin: 8px 0 4px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 120px; text-align: center;" title="Juliette Lavoie">Juliette Lavoie</div>
@@ -38,15 +51,6 @@ The people who make cmip7-guidance possible — 12 contributors
   </a>
   <div style="font-size: 0.75em; color: #999; margin-top: 6px; text-align: center;">33 commits</div>
   
-</div>
-<div style="background: #fff; border-radius: 12px; padding: 16px; width: 140px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); display: flex; flex-direction: column; align-items: center;">
-  <a href="https://github.com/wolfiex" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center; width: 100%;">
-    <img src="https://github.com/wolfiex.png?size=100" width="80" height="80" style="border-radius: 50%; border: 3px solid #eee; display: block; margin: 0 auto;" alt="Dan Ellis">
-    <div style="font-weight: 600; font-size: 0.95em; color: #333; margin: 8px 0 4px 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 120px; text-align: center;" title="Dan Ellis">Dan Ellis</div>
-    <div style="font-size: 0.8em; color: #666; text-align: center;">@wolfiex</div>
-  </a>
-  <div style="font-size: 0.75em; color: #999; margin-top: 6px; text-align: center;">32 commits</div>
-  <div style="margin-top: 8px; display: flex; justify-content: center; gap: 8px; align-items: center;"><a href="https://showcase.danielellisresearch.com" title="Website" style="color: #666; text-decoration: none; display: inline-flex; align-items: center;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></a><a href="https://orcid.org/0000-0001-6733-7028" title="ORCID: 0000-0001-6733-7028" style="display: inline-flex; align-items: center;"><img src="https://orcid.org/assets/icons/favicon.ico" alt="ORCID" width="16" height="16"></a></div>
 </div>
 <div style="background: #fff; border-radius: 12px; padding: 16px; width: 140px; text-align: center; box-shadow: 0 4px 15px rgba(0,0,0,0.1); display: flex; flex-direction: column; align-items: center;">
   <a href="https://github.com/Darwyn72" style="text-decoration: none; color: inherit; display: flex; flex-direction: column; align-items: center; width: 100%;">
@@ -114,4 +118,8 @@ The people who make cmip7-guidance possible — 12 contributors
 </div>
 
 ---
-*Last updated: 2026-02-17 14:31 UTC*
+<<<<<<< HEAD
+*Last updated: 2026-02-18 04:25 UTC*
+=======
+*Last updated: 2026-02-18 04:22 UTC*
+>>>>>>> b59581e (Testing with Mike Version control.)
