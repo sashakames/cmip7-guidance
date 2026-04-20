@@ -122,3 +122,15 @@ The _esgunpublish_ command retracts, or, upon specification, deletes a specified
 ```
 esgunpublish --dset-id <DRS-dataset-id>
 ```
+
+## 4. Versioning and Errata
+
+### 4.1 Versioning datasets
+
+Anytime there is any change to the data, a new version must be created.  Sites that run CMOR, that will write out new versions, work with yout team that operates CMOR to ensure that new versions are created.
+
+Alternatively and in cases where CMOR is not used, the [ESGDRS Tool](https://esgf.github.io/esgf-prepare/drs.html) can be used to create versions.
+
+### 4.2 Errata Service
+
+When a site creates an updated version (not needed on initial publication) or retracts data, an Errata must be opened.  Please see the [Errata documentation](https://ipsl.gitbook.io/esgf-errata-service) on the procedures.  Users can also create Errata but it is the responsibility of the data managers or modelers to review the issues to confirm or challenge the input.
