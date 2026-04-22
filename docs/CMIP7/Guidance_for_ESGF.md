@@ -127,9 +127,15 @@ esgunpublish --dset-id <DRS-dataset-id>
 
 ### 4.1 Versioning datasets
 
-Anytime there is any change to the data, a new version must be created.  Sites that run CMOR, that will write out new versions, work with yout team that operates CMOR to ensure that new versions are created.
+Anytime there is any change to a published dataset, an new dataset version must be created. 
+The version identifier is the last component of a CMIP7 dataset's directory path.
+Sites **must ensure** that an updated dataset is never erroneously published using the same version identifier as its previous version.
 
-Alternatively and in cases where CMOR is not used, the [ESGDRS Tool](https://esgf.github.io/esgf-prepare/drs.html) can be used to create versions.
+CMOR by default will write the version identifier in the output directory path as the current date (example: `v20260511`).
+However the version can also be user-specified as an input to CMOR.
+Sites that use CMOR should ensure that version identifiers are correctly specified for updated datasets (i.e., that a previous user-specified version is not mistakenly applied to updated version of a dataset).
+
+Alternatively, and in cases where CMOR is not used, the [ESGDRS Tool](https://esgf.github.io/esgf-prepare/drs.html) can be used to set the version identifier.
 
 ### 4.2 Errata Service
 
