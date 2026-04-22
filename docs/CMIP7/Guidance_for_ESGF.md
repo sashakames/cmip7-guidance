@@ -139,4 +139,4 @@ Alternatively, and in cases where CMOR is not used, the [ESGDRS Tool](https://es
 
 ### 4.2 Errata Service
 
-When a site creates an updated version (not needed on initial publication) or retracts data, an Errata must be opened.  Please see the [Errata documentation](https://ipsl.gitbook.io/esgf-errata-service) on the procedures.  Users can also create Errata but it is the responsibility of the data managers or modelers to review the issues to confirm or challenge the input.
+When a site creates an updated version of a dataset, or retracts a dataset, an Errata must be opened using the [Errata service](https://errata.esgf.io/).  Please see the [Errata documentation](https://ipsl.gitbook.io/esgf-errata-service) on the procedures.  Users can also create Errata, and it is the responsibility of the data managers or modelers to review user-created Errata issues to confirm or challenge the input.
